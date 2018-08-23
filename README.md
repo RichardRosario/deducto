@@ -1,7 +1,10 @@
 # deducto
 
-My first attemp to create an online Markdown bin..
+My first attemp to create an online Markdown interface to test web languages online(HTML, CSS, JAVASCRIPT)..
 
-Download or clone the repo
+## Click the GREEN button 
+at the top-right to Download or clone the repo
 
-run "npm install", then run "npm start"
+run "npm install", then run "npm start" or
+
+run "meteor" at the CLI
