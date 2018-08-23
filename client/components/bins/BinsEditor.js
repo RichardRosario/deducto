@@ -12,7 +12,7 @@ class BinsEditor extends Component {
   render() {
     return (
       <div className="col-xs-8">
-      <h5>Bin Editor Input</h5>
+      <h5>Bin Editor Input:</h5>
       <CodeMirror 
         value={this.props.bin.content} 
         onChange={this.onEditorChange.bind(this)} 
