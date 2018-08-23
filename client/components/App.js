@@ -6,7 +6,6 @@ export default App = () => {
   return (
     <div>
       <Header />
-      <BinsList />
     </div>
   )
 }
